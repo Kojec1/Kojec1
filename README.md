@@ -5,3 +5,5 @@
 - 📫 Reach me at discord: Kojec#3522
 
 Check this out! [Link](https://kojec1.github.io)
+
+Great for beginners! [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
